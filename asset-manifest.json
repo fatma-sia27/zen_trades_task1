@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zen_trades_task1/static/css/main.9282bbbb.css",
+    "main.js": "/zen_trades_task1/static/js/main.bf093cfa.js",
+    "static/js/787.d4aba7ab.chunk.js": "/zen_trades_task1/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/zen_trades_task1/index.html",
+    "main.9282bbbb.css.map": "/zen_trades_task1/static/css/main.9282bbbb.css.map",
+    "main.bf093cfa.js.map": "/zen_trades_task1/static/js/main.bf093cfa.js.map",
+    "787.d4aba7ab.chunk.js.map": "/zen_trades_task1/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9282bbbb.css",
+    "static/js/main.bf093cfa.js"
+  ]
+}
